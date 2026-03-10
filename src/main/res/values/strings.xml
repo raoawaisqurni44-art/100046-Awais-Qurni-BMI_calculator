@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight_hint">Enter your weight (kg)</string>
+    <string name="height_hint">Enter your height (cm)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+</resources>
